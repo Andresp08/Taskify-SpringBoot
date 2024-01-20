@@ -1,4 +1,4 @@
-package com.management.taskifypro.service.implementation;
+package com.management.taskifypro.service.implementation.projectservices;
 
 import java.util.List;
 
@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 import com.management.taskifypro.model.entity.Project;
 import com.management.taskifypro.model.response.ApiResponse;
 import com.management.taskifypro.repository.ProjectRespository;
-import com.management.taskifypro.service.interfaces.IProjectService;
+import com.management.taskifypro.service.interfaces.projectinterfaces.IProjectService;
 import com.management.taskifypro.util.builder.ResponseBuilder;
 
 @Service

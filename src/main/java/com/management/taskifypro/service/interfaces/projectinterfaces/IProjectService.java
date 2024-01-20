@@ -1,4 +1,4 @@
-package com.management.taskifypro.service.interfaces;
+package com.management.taskifypro.service.interfaces.projectinterfaces;
 
 import org.springframework.http.ResponseEntity;
 
